@@ -10,7 +10,7 @@ Public open-source projects from Promethix Labs are intended to remain open and 
 
 ### [Promethix.Framework.Ado](https://github.com/PromethixLabs/Promethix.Framework.Ado)
 
-A lightweight ADO.NET and Dapper scope library for managing connection and transaction lifecycles without forcing repository code to pass database objects everywhere.
+A lightweight ADO.NET and Dapper scope library for managing connection and transaction lifecycles without forcing repository code to pass database objects everywhere. Used in large enterprise .NET systems and built around production-proven data-access patterns where transaction correctness, maintainability, and operational clarity matter.
 
 ### [Promethix.Operator.CloudflareRouter](https://github.com/PromethixLabs/Promethix.Operator.CloudflareRouter)
 
