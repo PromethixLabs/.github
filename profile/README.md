@@ -10,12 +10,12 @@ Public open-source projects from Promethix Labs are intended to remain open and 
 
 | Project | Focus | Notes |
 | --- | --- | --- |
-| [Promethix.Framework.Ado](https://github.com/PromethixLabs/Promethix.Framework.Ado) | ADO.NET / Dapper data access | Scoped connection and transaction lifecycle management for applications that need explicit persistence boundaries. |
+| [AdoScope](https://github.com/PromethixLabs/Promethix.Framework.Ado) | ADO.NET / Dapper data access | Project name for the `Promethix.Framework.Ado` C# library. Provides scoped connection and transaction lifecycle management for applications that need explicit persistence boundaries. |
 | [Promethix.Operator.CloudflareRouter](https://github.com/PromethixLabs/Promethix.Operator.CloudflareRouter) | Kubernetes / Cloudflare Tunnel | Declarative route lifecycle management for publishing services through Cloudflare Tunnels. |
 | [Promethix Helm Charts](https://github.com/PromethixLabs/charts) | Helm / Kubernetes packaging | Public Helm chart repository for Promethix Labs components. |
 
-> **Promethix.Framework.Ado in production**  
-> Used in large enterprise .NET systems and built around production-proven data-access patterns where transaction correctness, maintainability, and operational clarity matter.
+> **AdoScope in production**  
+> The `Promethix.Framework.Ado` library is used in large enterprise .NET systems and built around production-proven data-access patterns where transaction correctness, maintainability, and operational clarity matter.
 
 ## Engineering principles
 
