@@ -15,7 +15,7 @@ Public open-source projects from Promethix Labs are intended to remain open and 
 | [Promethix Helm Charts](https://github.com/PromethixLabs/charts) | Helm / Kubernetes packaging | Public Helm chart repository for Promethix Labs components. |
 
 > **AdoScope in production**  
-> The `Promethix.Framework.Ado` library is used in large enterprise .NET systems and built around production-proven data-access patterns where transaction correctness, maintainability, and operational clarity matter.
+> The AdoScope library is used in large enterprise .NET systems and built around production-proven patterns where transaction correctness, maintainability, and operational clarity matter.
 
 ## Engineering principles
 
