@@ -1,8 +1,10 @@
 # Promethix Labs
 
-Promethix Labs is an open-source engineering group focused on pragmatic platform tooling, .NET architecture, Kubernetes automation, and secure software delivery.
+Promethix Labs is a small engineering group for software, infrastructure, automation, and platform projects.
 
-We build small, focused tools that solve real operational problems: database transaction boundaries, Kubernetes route automation, Helm packaging, release provenance, and infrastructure-adjacent developer workflows.
+We work on practical tools and systems across application development, platform engineering, hosting, operations, and developer experience. Some of that work is published as open source, including .NET libraries, Kubernetes tooling, Helm charts, and release/provenance utilities.
+
+Open-source projects published by Promethix Labs are intended to remain open, but the organisation is not limited to open-source work.
 
 ## Projects
 
@@ -23,7 +25,7 @@ Public Helm chart repository for Promethix Labs components.
 - Explicit, reviewable architecture
 - Production-grade defaults
 - Security and operational safety first
-- Supply-chain transparency
+- Supply-chain transparency where it adds value
 - Small, composable tools over large frameworks
 
 ## Supply-chain and release transparency
