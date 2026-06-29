@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/promethix-labs-banner.svg" alt="Promethix Labs - software, infrastructure, automation, and platform projects" />
+</p>
+
 # Promethix Labs
 
 Promethix Labs is a small engineering group for software, infrastructure, automation, and platform projects.
@@ -5,6 +9,12 @@ Promethix Labs is a small engineering group for software, infrastructure, automa
 We work on practical tools and systems across application development, platform engineering, hosting, operations, and developer experience. Some of that work is published as open source, including .NET libraries, Kubernetes tooling, Helm charts, and release/provenance utilities.
 
 Public open-source projects from Promethix Labs are intended to remain open and usable by the community.
+
+<p>
+  <a href="https://github.com/gentoorax"><strong>Maintainer</strong></a> ·
+  <a href="https://chrislaw.dev/cv"><strong>CV</strong></a> ·
+  <a href="https://trust.promethix.dev"><strong>Trust & provenance</strong></a>
+</p>
 
 ## Projects
 
