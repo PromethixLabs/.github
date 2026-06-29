@@ -8,9 +8,9 @@
   </defs>
   <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
   <circle cx="940" cy="110" r="170" fill="#34d399" fill-opacity="0.12"/>
-  <path d="M850 70l170 90-170 90-170-90 170-90Z" fill="#ffffff" fill-opacity="0.06" stroke="#a7f3d0" stroke-opacity="0.35" stroke-width="3"/>
-  <path d="M850 115l85 45-85 45-85-45 85-45Z" fill="#22d3ee" fill-opacity="0.18" stroke="#67e8f9" stroke-opacity="0.5" stroke-width="3"/>
+  <path d="M850 70l170 90-170 90-170-90 170-90Z" fill="#ffffff" fill-opacity="0.06"/>
+  <path d="M850 115l85 45-85 45-85-45 85-45Z" fill="#22d3ee" fill-opacity="0.18"/>
   <text x="72" y="122" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="52" font-weight="750">Promethix Labs</text>
   <text x="72" y="176" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="500">Software · Infrastructure · Automation · Platforms</text>
-  <text x="72" y="226" fill="#a7f3d0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">Practical tools, systems, and selected open-source projects</text>
+  <text x="72" y="226" fill="#a7f3d0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">Practical tools, systems, and open-source projects</text>
 </svg>
