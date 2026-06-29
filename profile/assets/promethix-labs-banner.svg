@@ -1,0 +1,16 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#064e3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <circle cx="940" cy="110" r="170" fill="#34d399" fill-opacity="0.12"/>
+  <path d="M850 70l170 90-170 90-170-90 170-90Z" fill="#ffffff" fill-opacity="0.06"/>
+  <path d="M850 115l85 45-85 45-85-45 85-45Z" fill="#22d3ee" fill-opacity="0.18"/>
+  <text x="72" y="122" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="52" font-weight="750">Promethix Labs</text>
+  <text x="72" y="176" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="500">Software · Infrastructure · Automation · Platforms</text>
+  <text x="72" y="226" fill="#a7f3d0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600">Practical tools, systems, and open-source projects</text>
+</svg>
